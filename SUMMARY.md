@@ -1,7 +1,10 @@
 # Summary
 
 * [Introduction](Overview.md)
-* [Getting Started](Getting-Started.md)
-* [Tutorials](tutorials/tutorial-1.md)
-* [Api Reference](api-reference/api.md)
+* [Getting Started](getting-started/README.md)
+  * [Auth](getting-started/auth.md)
+* [Tutorials](tutorials/Readme.md)
+  * [First Tutorial](tutorials/tutorial-1.md)
+* [API Reference](api-reference/README.md)
+  * [First API](api-reference/api-1.md)
 
