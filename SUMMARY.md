@@ -8,7 +8,7 @@
 ## Tutorials
   * [About the tutorials](tutorials/README.md)
   * [First Tutorial](tutorials/tutorial-1.md)
-  * [Integrating with Auth](getting-started/auth.md)
+  * [Integrating with Auth](tutorials/auth.md)
 
 ## Advanced Concepts
   * [Something Advanced](advanced-topics/advanced-topic-1.md) 
