@@ -1,6 +1,6 @@
 # Documentation Starter Repo
 
-This repository contains scaffolding for a docs repo which can be deployed on the Adobe Developer Site. Follow the [document guidelines repo](https://github.com/AdobeDocs/docs-guidelines) to learn more about how to work with this repo. 
+This repository contains scaffolding for a docs repo which can be deployed on the Adobe Developer Site.
 
 All sections below in this `README.md`
 should be considered a template for a typical project `README.md`.
