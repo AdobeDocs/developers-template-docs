@@ -3,7 +3,7 @@
 Join our community! We are here to help!
 
 ## Basics
-* Checkout our [FAQ]()
+* Checkout our [FAQ](/support/faq/README.md)
 * Adobe Forms for asking basic questions
 * Stackoverflow for technical questions
 
