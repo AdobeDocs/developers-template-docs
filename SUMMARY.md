@@ -11,7 +11,7 @@
   * [Integrating with Auth](tutorials/auth.md)
 
 ## Advanced Concepts
-  * [Something Advanced](advanced-topics/advanced-topic-1.md) 
+  * [Something Advanced](advanced-topics/advanced-topic-1.md)
 
 ## Join The Community
   * [Help, feedback, & discussion](Community.md)
@@ -23,3 +23,6 @@
   * [API Reference](api-reference/api-1.md)
   * [Release Notes](RELEASENOTES.md)
 
+## Support
+  * [Overview](support/README.md)
+  * [FAQ](support/faq/README.md)
