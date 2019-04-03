@@ -14,9 +14,8 @@
   * [Something Advanced](advanced-topics/advanced-topic-1.md)
 
 ## Join The Community
-  * [Help, feedback, & discussion](Community.md)
-  * [Code of conduct](CODE_OF_CONDUCT.md)
   * [How to contribute](.github/CONTRIBUTING.md)
+  * [Code of conduct](CODE_OF_CONDUCT.md)
 
 ## Technical Reference
   * [About the reference](api-reference/README.md)
